@@ -1,0 +1,2 @@
+# tinhtong
+Tính tổng
